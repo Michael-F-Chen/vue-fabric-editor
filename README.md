@@ -123,6 +123,13 @@ yarn serve
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Michael-F-Chen">
+            <img src="https://avatars.githubusercontent.com/u/24725455?v=4" width="80;" alt="Michael-F-Chen"/>
+            <br />
+            <sub><b>Michael-F-Chen</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/nihaojob">
             <img src="https://avatars.githubusercontent.com/u/13534626?v=4" width="80;" alt="nihaojob"/>
             <br />
@@ -156,15 +163,15 @@ yarn serve
             <br />
             <sub><b>hudenghui</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/makeng">
             <img src="https://avatars.githubusercontent.com/u/23654388?v=4" width="80;" alt="makeng"/>
             <br />
             <sub><b>makeng</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/xiaozhuclassmate">
             <img src="https://avatars.githubusercontent.com/u/87807886?v=4" width="80;" alt="xiaozhuclassmate"/>
@@ -199,15 +206,15 @@ yarn serve
             <br />
             <sub><b>macheteHot</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/slarkerino">
             <img src="https://avatars.githubusercontent.com/u/7014849?v=4" width="80;" alt="slarkerino"/>
             <br />
             <sub><b>slarkerino</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vvbear">
             <img src="https://avatars.githubusercontent.com/u/32010827?v=4" width="80;" alt="vvbear"/>
